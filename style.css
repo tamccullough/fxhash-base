@@ -1,0 +1,46 @@
+html,body {
+  color: white;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  touch-action: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.a-layer {
+  height:99vh;
+}
+
+.b-layer {
+  position: absolute;
+  height:99vh;
+}
+
+.c-layer {
+  position: absolute;
+  height:99vh;
+}
+
+.d-layer {
+  position: absolute;
+  height:99vh;
+}
+
+.e-layer {
+  position: absolute;
+  height:99vh;
+}
+
+.f-layer {
+  position: absolute;
+  height:99vh;
+}
